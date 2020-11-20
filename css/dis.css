@@ -1,0 +1,113 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.heading{
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    text-align: center;
+}
+.text{
+    border-width: 10px;
+    border-style: ridge;
+    padding: 20px;
+    position: center;
+    position: relative;
+    background: #dcebf5;
+    margin-left: 360px;
+    margin-right: 50px;
+    width: 50%;
+    height: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+}
+.heading2{
+      margin-left: 40px;
+      margin-right: 40px;
+   
+    font-weight: 800;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.heading2 h2{
+    text-decoration: underline;
+}
+.pic{
+    background-color: blanchedalmond;
+    /* padding: 15px; */
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-style: double;
+}
+.pic img{
+    align: center;
+    background-size: 100% 100%;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-style: solid;
+    border-width: thick;
+    margin-bottom: 10px;
+}
+.pic h4{
+    margin-left: 15px;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+.pic a{
+     margin-bottom: 50px;
+   
+    text-decoration: none;
+    color:blue;
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+.element{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-style: dotted;
+}
+.pic p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: medium;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.pic a:hover{
+    color: brown;
+    background-color: black;
+}
+.whole{
+       background-color: #dcebf;
+}
+.pic h4{
+    text-transform: uppercase;
+}
+.btn a{
+      margin-left: 1300px;
+}
+.next {
+    
+    display: inline-block;
+    padding: 5px 14px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+
+  }
+  .bn a{
+      margin-left: 50px;
+  }
+  .previous{
+    display: inline-block;
+    padding: 5px 14px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+  }
